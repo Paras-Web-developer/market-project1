@@ -49,7 +49,7 @@
     }
 } */
 body{
-    background-image: url("/img/background-img5.jpg");
+    background-image: url("/public/img/background-img5.jpg");
     /* background-color: rgb(56 57 59); */
     background-size: 100%;
     background-repeat: no-repeat;
