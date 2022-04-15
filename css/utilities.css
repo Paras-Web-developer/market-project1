@@ -1,0 +1,52 @@
+.flex{
+    display: flex;
+
+
+}
+.items-center{
+    align-items: center;
+}
+.justify-between{
+    justify-content: space-between;
+
+    
+}
+.btn{
+    padding:0.5rem 1rem;
+    font-size: 0.5rem;
+    font-weight: 600;
+    border: 1px solid black;
+    border-radius: 1px;
+    cursor: pointer;
+    
+
+
+
+}
+.btn2{
+    background-color: #ffc107;
+}
+.btn2:hover{
+    background-color: var(--primary);
+    color: #ffbf00;
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+    
+
+}
+
+.card-width{
+    display: flex;
+    justify-content: center;
+    justify-items: center;
+    width: 200px;
+    height: 98%;
+    /* border: 2px solid rgb(199 128 140); */
+    border-radius: 5%;
+    
+}
+.card-width:hover{
+    box-shadow: 2px 2px 2px 2px gray;
+    transition: 0.2s ease-in-out;
+
+}
