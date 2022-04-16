@@ -23,8 +23,11 @@
                 emailjs.sendForm('service_yutcq2h', 'template_8c8vrrm', this)
                     .then(function() {
                         console.log('SUCCESS!');
+                        this.reset();
+                        alert("Email send succesfully");
                     }, function(error) {
                         console.log('FAILED...', error);
+                        alert("Email Not Send");
                     });
             });
         }
