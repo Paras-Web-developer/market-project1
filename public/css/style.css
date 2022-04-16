@@ -352,8 +352,8 @@ section .section-heading span{
     color: #000000;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(200px,1fr));
-    /* grid-column-gap: 1.5rem; */
-    grid-row-gap: 1rem
+    grid-row-gap: 1rem;
+    grid-column-gap: 5rem;
 
 }
 .things-done .card-wrapper .carders{
@@ -362,8 +362,7 @@ section .section-heading span{
     text-align: center;
     padding: 1rem 2rem;
     border-radius: 23px;
-    /* border: 1px solid #023047; */
-    /* background-color: rgb(187, 187, 187); */
+
     
 }
 .things-done .card-wrapper .carders:hover{
