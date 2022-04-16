@@ -484,7 +484,8 @@ footer .left p{
 .last-part .middle{   
     flex-direction: column;
     grid-row-gap: 0.2rem; 
-    border-bottom: 1px solid #023047;; 
+    border-bottom: 1px solid #023047;
+    margin-top: 20px;
 }
 .last-part .middle h4{
     color: #44aee3;
@@ -503,6 +504,7 @@ footer .left p{
     grid-row-gap: 0.2rem;
     width: 13rem;
     border-bottom: 1px solid #023047;
+    margin-top: 20px;
 
 }
 .last-part .right h4{
