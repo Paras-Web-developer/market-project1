@@ -407,11 +407,9 @@ section.why-us .creators{
     margin-top: 30px;
     
 }
-/* section .creators .creators-img{
-    border: 2px solid rgb(2, 2, 2);
-    
-    
-} */
+.why-us .creators .whyus-space{
+margin-bottom: 12px;
+}
 section .creators .creators-img img{
 
     width: 150px;
@@ -496,7 +494,7 @@ footer .left p{
     color: #000000;
     font-size: 0.7rem;
     line-height: 1.3rem;
-    width: 30%;
+    width: 100%;
     
 }
 .last-part .right{   
