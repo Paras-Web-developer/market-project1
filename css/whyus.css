@@ -176,7 +176,7 @@ section .why-us-page{
 .heading p{
     text-align: center;
     margin-bottom: 20px;
-    font-size: 0.8rem;
+    font-size: 1.2rem;
     color: rgb(59, 58, 58);
 }
 
@@ -190,6 +190,7 @@ section .why-us-page{
 }
 .keypoint .point1 h4{
     font-size: 1.7rem;
+    line-height: 2rem;
 }
 .keypoint .point1 p{
     color: rgb(65, 63, 63);
