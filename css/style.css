@@ -221,8 +221,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/facebook.png") no-repeat;
         background-size: contain;
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
         
   
         
@@ -233,8 +233,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/instagram.png") no-repeat;
         background-size: contain;
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
     }
     60%{
         content: ' ';
@@ -242,8 +242,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/tik-tok.png") no-repeat;
         background-size: contain;
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
     }
     80%{
         content: ' ';
@@ -251,8 +251,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/youtube.png") no-repeat;
         background-size: contain;
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
     }
     100%{
         content: ' ';
@@ -260,8 +260,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/snapchat.png") no-repeat;
         background-size: contain;
-        height: 50px;
-        width: 50px;
+        height: 40px;
+        width: 40px;
     }
 }
 
@@ -499,7 +499,7 @@ footer .left p{
 }
 .left .social-logo img{
     margin: 0 8px;
-    width: 34px;
+    width: 34px4
 }
 .left .social-logo img:hover{
     cursor: pointer;
