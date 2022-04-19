@@ -196,10 +196,13 @@ header .content .left-content h1 span{
 }
 header .content .left-content h1{
     color: #ffc107;
+    line-height: 5rem;
+    font-size: 3.5rem;
 }
 header .content .left-content h4{
     color: white;
     font-weight: 300;
+    font-size: 1.7rem;
 }
 header .content .left-content h4 span::before{
     content: '';
@@ -217,8 +220,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/facebook.png") no-repeat;
         background-size: contain;
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
         
   
         
@@ -229,8 +232,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/instagram.png") no-repeat;
         background-size: contain;
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
     }
     60%{
         content: ' ';
@@ -238,8 +241,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/tik-tok.png") no-repeat;
         background-size: contain;
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
     }
     80%{
         content: ' ';
@@ -247,8 +250,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/youtube.png") no-repeat;
         background-size: contain;
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
     }
     100%{
         content: ' ';
@@ -256,8 +259,8 @@ header .content .left-content h4 span::before{
         position: absolute;
         background:  url("/icons/snapchat.png") no-repeat;
         background-size: contain;
-        height: 30px;
-        width: 30px;
+        height: 50px;
+        width: 50px;
     }
 }
 
@@ -274,7 +277,7 @@ section .brands{
 
 }
 section .brands h2{
-
+    font-size: 2.1rem;
     color: #023047;
     align-items: center;
 }
@@ -283,10 +286,10 @@ section .brands span{
     color: #ffc107;
 }
 section .brands-logo img{
-    width: 5rem;
-    padding: 15px 1%;
+    width: 10rem;
+    padding: 57px 0%;
     justify-content: space-between;
-    margin: 10px 35px;
+    margin: 10px 90px;
 }
 /* .case-studies{
     border: 2px solid red;
@@ -301,6 +304,8 @@ section .brands-logo img{
     color: #023047;
     text-align: center;
     line-height: 30px;
+    font-size: 2rem;
+    margin-bottom: 10px;
 }
 .case-studies .case h2 span{
     color: rgb(255 193 7);
@@ -365,6 +370,7 @@ section .section-heading{
     text-align: center;
     line-height: 1.5rem;
     margin-bottom: 2rem;
+    font-size: 2rem;
 }
 section .section-heading span{
     color: rgb(255 193 7);
@@ -398,13 +404,13 @@ section .section-heading span{
 .things-done .card-wrapper .carders h2{
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.4rem;
     color: #023047;
 }
 .things-done .card-wrapper .carders p{
     font-family: 'Josefin Sans', sans-serif;
     text-align: center;
-    font-size: 0.6rem;
+    font-size: 1rem;
     color: rgb(129 123 123);
 }
 /* why us start */
@@ -441,14 +447,14 @@ section .creators .creators-text{
 }
 section .creators .creators-text h2{
     text-align: center;
-    font-size: 1rem;
+    font-size: 1.7rem;
     font-weight: 300;
-    line-height: 1rem;
-    color: #3e3e3e;
+    line-height: 2.9rem;
+    color: #023047;
 }
 section  .creators-text p{
     color: rgb(129 123 123);
-    font-size: 0.7rem;
+    font-size: 1.2rem;
     text-align: center;
 }
 
