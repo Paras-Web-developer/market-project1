@@ -200,7 +200,6 @@ header .content .left-content h1{
 header .content .left-content h4{
     color: white;
     font-weight: 300;
-    margin-right: 13px;
 }
 header .content .left-content h4 span::before{
     content: '';
@@ -212,7 +211,7 @@ header .content .left-content h4 span::before{
 
 }
 @keyframes animate{
-    0%{
+    20%{
         content: ' ';
         display: inline-block;
         position: absolute;
@@ -224,7 +223,7 @@ header .content .left-content h4 span::before{
   
         
     }
-    20%{
+    40%{
         content: ' ';
         display: inline-block;
         position: absolute;
@@ -233,7 +232,7 @@ header .content .left-content h4 span::before{
         height: 30px;
         width: 30px;
     }
-    40%{
+    60%{
         content: ' ';
         display: inline-block;
         position: absolute;
@@ -242,7 +241,7 @@ header .content .left-content h4 span::before{
         height: 30px;
         width: 30px;
     }
-    60%{
+    80%{
         content: ' ';
         display: inline-block;
         position: absolute;
@@ -251,7 +250,7 @@ header .content .left-content h4 span::before{
         height: 30px;
         width: 30px;
     }
-    80%{
+    100%{
         content: ' ';
         display: inline-block;
         position: absolute;
