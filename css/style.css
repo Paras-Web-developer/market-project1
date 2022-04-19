@@ -200,42 +200,65 @@ header .content .left-content h1{
 header .content .left-content h4{
     color: white;
     font-weight: 300;
+    margin-right: 13px;
 }
 header .content .left-content h4 span::before{
     content: '';
     animation: animate infinite 10s ;
     /* animation-delay: 4s; */
     --webkit-box-reflect: below 1px linear-gradient(transparent,rgb(187, 4, 4));
-    
+    margin-left: 13px;
     background-image: linear-gradient(120deg);
 
 }
 @keyframes animate{
     0%{
-        content: 'Facebook logo';
-        color: #436fcf;
-        font-weight: bold;
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/facebook.png") no-repeat;
+        background-size: contain;
+        height: 30px;
+        width: 30px;
+        
+  
         
     }
     20%{
-        content: 'instagram logo';
-        color: #e630c7;
-        font-weight: bold;
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/instagram.png") no-repeat;
+        background-size: contain;
+        height: 30px;
+        width: 30px;
     }
     40%{
-        content: 'Tik tok logo';
-        color: #000000;
-        font-weight: bold;
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/tik-tok.png") no-repeat;
+        background-size: contain;
+        height: 30px;
+        width: 30px;
     }
     60%{
-        content: 'snapchat logo';
-        color: #f7f401;
-        font-weight: bold;
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/youtube.png") no-repeat;
+        background-size: contain;
+        height: 30px;
+        width: 30px;
     }
     80%{
-        content: 'youtube logo';
-        color: #f60000;
-        font-weight: bold;
+        content: ' ';
+        display: inline-block;
+        position: absolute;
+        background:  url("/icons/snapchat.png") no-repeat;
+        background-size: contain;
+        height: 30px;
+        width: 30px;
     }
 }
 
