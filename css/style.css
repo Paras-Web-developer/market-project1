@@ -20,15 +20,15 @@
 
 
 
-@media (min-width:0px) and (max-width: 548px){
+@media (min-width:0px) and (max-width: 730px){
     header .content {
-        margin-top: -51px;       
+        margin-top: -71px;       
     }
     header .content .left-content h1{
-        font-size: 1rem;
+        font-size: 34px;
     }
     header .content .left-content h4{
-        font-size: 0.7rem;
+        font-size: 0.2rem;
     }
     header .content .brand-btn{
         font-size: 0.7rem;
