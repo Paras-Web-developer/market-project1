@@ -1,7 +1,7 @@
 @import 'utilities.css';
 @import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
 
-@media(max-width:500px){
+@media(max-width:900px){
     header #main-nav{
         display: none;
     }
@@ -10,7 +10,7 @@
     }
   
 }
-@media(min-width:500px){
+@media(min-width:900px){
     .hamberger{
         display: none;
 
