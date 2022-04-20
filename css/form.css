@@ -101,6 +101,10 @@ form button{
     font-weight: 800;
     margin-bottom: 20px;
 }
+.Thankyou img{
+    border-radius: 5px;
+    
+}
 
 
 /* start footer css */
