@@ -43,11 +43,12 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin-top: 7%;
+    margin-top: 2%;
+    
     
 }
 form{
-    background: white;
+    background: #efefef;
     display: flex;
     flex-direction: column;
     padding: 2vw 3vw;
@@ -57,7 +58,7 @@ form{
     
 }
 form:hover{
-    background-color: ;
+    background-color: rgb(255 255 255);
 }
 form h3{
     color: #555;
@@ -72,7 +73,7 @@ form input, form textarea{
     margin: 3px 0;
     padding: 11px;
     outline: none;
-    background: rgb(248, 240, 240);
+    background: rgb(255 255 255);
     font-size: 15px;
 
 }
