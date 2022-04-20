@@ -18,6 +18,9 @@ header{
     font-size: 3rem;
     font-weight: 400;
 }
+.brand-heading h1 span{
+    color: rgb(245 66 54);
+}
 
 .brand-box img{
     width: 8rem;
