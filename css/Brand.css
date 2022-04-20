@@ -8,3 +8,13 @@ body{
 .brand-box{
     padding: 2% 10%;
 }
+
+.brand-heading h1{
+    font-size: 3rem;
+}
+
+.brand-box img{
+    width: 10rem;
+    justify-content: space-between;
+    margin: 10px 30px;
+}
