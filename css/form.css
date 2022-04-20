@@ -5,10 +5,21 @@
     -webkit-font-smotthing:antialiased;
 
 }
+
+body{
+    background-image: none;
+    /* background-color: rgb(56 57 59); */
+    background-size: 100%;
+    background-repeat: no-repeat;
+    font-family: 'Josefin Sans', sans-serif;
+    color: rgb(0, 0, 0);
+    
+    
+}
 .container{
-    width: 100%;
-    height: 100vh;
-    background-image: url(/img/background-img2.jpg);
+    /* width: 100%;
+    height: 100vh; */
+    background-image: none;
     display: flex;
     align-items: center;
     justify-content: center;
