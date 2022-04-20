@@ -25,6 +25,8 @@ body{
 }
 .Need-Heading h4{
     font-weight: 100;
+    font-size: 1.5rem;
+    line-height: 2rem;
 }
 .Need-Heading h4 span{
      color: tomato;
@@ -33,6 +35,8 @@ body{
 
 .Need-Heading h1{
     font-weight: 300;
+    margin-bottom: 34px;
+    font-size: 2.2rem;
 }
 
 .Needs-boxes{
@@ -47,8 +51,8 @@ body{
     width: 140px;
 }
 .Needs-boxes .Need-img img{
-    height: 192px;
-    width: 132px;
+    height: 299px;
+    width: 226px;
 }
 
 .Need-btn{
@@ -56,13 +60,14 @@ body{
 
 }
 .Need-btn .btn2{
-    background-color: tomato;
+    background-color: #218ba3e3;
     color: white;
+    padding: 5% 45%;
 
 }
 .Need-btn .btn2:hover{
     background-color: var(--primary);
-    color: tomato;
+    color: #218ba3e3;
     transition: ease-in-out; 
     transition-duration: 0.4s;
 }
