@@ -20,3 +20,50 @@ body{
     margin: 10px 60px;
 
 }
+.Needs{
+    padding: 2% 10%;
+}
+.Need-Heading h4{
+    font-weight: 100;
+}
+.Need-Heading h4 span{
+     color: tomato;
+     
+}
+
+.Need-Heading h1{
+    font-weight: 300;
+}
+
+.Needs-boxes{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    height: 200px;
+    flex-wrap: wrap;
+
+}
+.Needs-boxes .Need-1{
+    width: 140px;
+}
+.Needs-boxes .Need-img img{
+    height: 192px;
+    width: 132px;
+}
+
+.Need-btn{
+
+
+}
+.Need-btn .btn2{
+    background-color: tomato;
+    color: white;
+
+}
+.Need-btn .btn2:hover{
+    background-color: var(--primary);
+    color: tomato;
+    transition: ease-in-out; 
+    transition-duration: 0.4s;
+}
+
