@@ -11,10 +11,12 @@ body{
 
 .brand-heading h1{
     font-size: 3rem;
+    font-weight: 400;
 }
 
 .brand-box img{
-    width: 10rem;
+    width: 8rem;
     justify-content: space-between;
     margin: 10px 60px;
+
 }
