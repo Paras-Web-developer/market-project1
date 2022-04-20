@@ -43,12 +43,13 @@ body{
     display: flex;
     flex-direction: row;
     justify-content: space-evenly;
-    height: 200px;
+    height: 300px;
     flex-wrap: wrap;
 
 }
 .Needs-boxes .Need-1{
-    width: 140px;
+    width: 240px;
+    margin-bottom: 15px;
 }
 .Needs-boxes .Need-img img{
     height: 299px;
@@ -62,7 +63,8 @@ body{
 .Need-btn .btn2{
     background-color: #218ba3e3;
     color: white;
-    padding: 5% 45%;
+    width: 96%;
+    height: 48px;
 
 }
 .Need-btn .btn2:hover{
