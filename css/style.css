@@ -477,18 +477,22 @@ footer .last-part {
     justify-content: space-evenly;
 
 } */
+
+
+
 footer .left{
     color: black;
     border-bottom: 1px solid #023047;
     
 }
 footer .left h3{
-color: #023047;
-line-height: 2rem;
-font-size: 2rem;
+    color: white;
+    line-height: 2rem;
+    font-size: 2rem;
 }
 footer .left h3 span{
-    font-size: 1rem;
+    font-size: 2rem;
+    color: #efbf07;
 }
 footer .left p{
     color: rgb(43, 43, 43);
