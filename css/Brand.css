@@ -57,13 +57,17 @@ body{
     height: 299px;
     width: 226px;
     border-radius: 5px;
+    cursor: pointer;
 
 }
-
-.Need-btn{
-
-
+.Needs-boxes .Need-img img:hover{
+    opacity: 0.6;
 }
+
+/* .Need-btn{
+
+
+} */
 .Need-btn .btn2{
     background-color: #218ba3e3;
     color: white;
