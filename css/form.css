@@ -1,3 +1,23 @@
+@import url('https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap');
+
+@media(max-width:900px){
+    header #main-nav{
+        display: none;
+    }
+    header #main-nav .times{
+        display: none;
+    }
+  
+}
+@media(min-width:900px){
+    .hamberger{
+        display: none;
+
+    }
+
+}
+
+
 *{
     margin: 0%;
     padding: 0%;
