@@ -54,6 +54,8 @@ body{
 .Needs-boxes .Need-img img{
     height: 299px;
     width: 226px;
+    border-radius: 5px;
+
 }
 
 .Need-btn{
@@ -63,7 +65,9 @@ body{
 .Need-btn .btn2{
     background-color: #218ba3e3;
     color: white;
-    width: 96%;
+    width: 94%;
+    border-radius: 6px;
+    border: none;
     height: 48px;
 
 }
@@ -72,5 +76,6 @@ body{
     color: #218ba3e3;
     transition: ease-in-out; 
     transition-duration: 0.4s;
+    border: 1px solid #218ba3e3;
 }
 
