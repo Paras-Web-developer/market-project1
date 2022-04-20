@@ -43,7 +43,7 @@ body{
     display: flex;
     align-items: center;
     justify-content: space-evenly;
-    margin-top: 4%;
+    margin-top: 3%;
     
     
 }
@@ -57,9 +57,7 @@ form{
     border-radius: 10px;
     
 }
-form:hover{
-    background-color: rgb(255 255 255);
-}
+
 form h2{
     color: #555;
     font-weight: 800;
@@ -93,4 +91,9 @@ form button{
 .container-form .Thankyou img{
     width: 500px;
     height: 300px;
+}
+.Thankyou h1{
+    color: #555;
+    font-weight: 800;
+    margin-bottom: 20px;
 }
