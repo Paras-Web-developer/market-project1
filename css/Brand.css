@@ -6,7 +6,9 @@ body{
     
 }
 .brand-box{
-    padding: 2% 10%;
+    padding: 0% 10%;
+    margin-top: 4%;
+
 }
 
 .brand-heading h1{
@@ -21,7 +23,7 @@ body{
 
 }
 .Needs{
-    padding: 2% 10%;
+    padding: 3% 10%;
 }
 .Need-Heading h4{
     font-weight: 100;
