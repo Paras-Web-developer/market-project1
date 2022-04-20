@@ -89,3 +89,30 @@ header{
     border: 1px solid #218ba3e3;
 }
 
+/* start footer css */
+
+footer .last-part{
+    background-color: #053e4d;
+}
+footer .left h3 {
+    color: white;
+
+}
+footer .left h3 span{
+    color: #efbf07;
+}
+footer .left p{
+    color: rgb(255 255 255);
+}
+.last-part .middle h4{
+    color: #efbf07;
+}
+.last-part .middle a{
+    color: rgb(255 255 255);
+}
+.last-part .right h4{
+    color: #efbf07;
+}
+.last-part .right a{
+    color: rgb(255 255 255);
+}
