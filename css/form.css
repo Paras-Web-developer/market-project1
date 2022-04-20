@@ -36,6 +36,10 @@ body{
     
     
 }
+header{
+    background-color: rgb(85 85 85);
+
+}
 .container-form{
     /* width: 100%;
     height: 100vh; */
@@ -96,4 +100,27 @@ form button{
     color: #555;
     font-weight: 800;
     margin-bottom: 20px;
+}
+
+
+/* start footer css */
+
+footer .last-part{
+    background-color: #555555;
+}
+footer .left h3 {
+    color: white;
+
+}
+footer .left h3 span{
+    color: #efbf07;
+}
+footer .left p{
+    color: rgb(255 255 255);
+}
+.last-part .middle{
+    color: rgb(255 255 255);
+}
+.last-part .right a {
+    color: rgb(255 255 255);
 }
