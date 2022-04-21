@@ -467,8 +467,8 @@ footer .last-part {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(100px,1fr));
     grid-column-gap: 2rem;
-    padding: 24px 14%;
-    margin-top: 45px;
+    padding: 10px 14%;
+    margin-top: 20px;
     background-color: #fcd3c487;
     
 }

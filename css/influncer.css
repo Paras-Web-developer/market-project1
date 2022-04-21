@@ -17,13 +17,14 @@ header nav .right-list a{
 
 footer .last-part{
     background-color: #ffffff;
+    border: 1px solid rgb(59, 59, 59);
 }
 
 footer .left h3{
     color: black;
 }
 footer .left p{
-    color: rgb(59, 59, 59)
+    color: rgb(59, 59, 59);
 }
 .last-part .middle h4{
     color: #000000;
