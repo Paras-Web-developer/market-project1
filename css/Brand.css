@@ -51,6 +51,7 @@ header{
     flex-direction: row;
     justify-content: space-evenly;
     flex-wrap: wrap;
+    box-shadow: 0px 0px 47px 0px #d9d2d2;
 
 }
 .Needs-boxes .Need-1{
@@ -62,6 +63,7 @@ header{
     width: 226px;
     border-radius: 5px;
     cursor: pointer;
+    box-shadow: 0px 0px 59px 15px #d9d2d2;
 
 }
 .Needs-boxes .Need-img img:hover{
@@ -79,6 +81,7 @@ header{
     border-radius: 6px;
     border: none;
     height: 48px;
+    box-shadow: 0px 0px 59px 15px #d9d2d2;
 
 }
 .Need-btn .btn2:hover{
@@ -109,4 +112,15 @@ footer .left p{
 }
 .last-part .right a{
     color: rgb(255 255 255);
+}
+
+
+/* Responsive For Tablet*/
+@media (min-width:0px) and (max-width: 768px){
+
+    .brand-box img {
+        width: 6rem;
+        justify-content: space-between;
+        margin: 10px 11px;
+    }
 }
