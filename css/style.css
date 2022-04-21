@@ -67,7 +67,7 @@ body{
     border-radius: 22px;
     background: white;
     border: 3px solid black;
-    
+    margin-top: 13px;
 }
 .mobile-nav{
     display: flex;
@@ -536,7 +536,7 @@ footer .left p{
 
 /* Responsive */
 
-@media (min-width:0px) and (max-width: 730px){
+@media (min-width:0px) and (max-width: 768px){
     header .content {
         margin-top: -71px;       
     }
