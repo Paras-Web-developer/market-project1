@@ -19,23 +19,6 @@
 }
 
 
-
-@media (min-width:0px) and (max-width: 730px){
-    header .content {
-        margin-top: -71px;       
-    }
-    header .content .left-content h1{
-        font-size: 34px;
-    }
-    header .content .left-content h4{
-        font-size: 0.2rem;
-    }
-    header .content .brand-btn{
-        font-size: 0.7rem;
-    }
-
-}
-
 *{
     margin: 0%;
     padding: 0%;
@@ -84,6 +67,7 @@ body{
     border-radius: 22px;
     background: white;
     border: 3px solid black;
+    
 }
 .mobile-nav{
     display: flex;
@@ -550,7 +534,22 @@ footer .left p{
 
 }
 
+/* Responsive */
 
+@media (min-width:0px) and (max-width: 730px){
+    header .content {
+        margin-top: -71px;       
+    }
+    header .content .left-content h1{
+        font-size: 34px;
+        line-height: 3rem;
+    }
+    header .content .left-content h4{
+        font-size: 0.9rem;
+    }
+    header .content .brand-btn{
+        font-size: 0.9rem;
+    }
 
-
+}
  
