@@ -120,8 +120,8 @@ footer .left p{
 @media (min-width:0px) and (max-width: 768px){
 
     .brand-box img {
-        width: 3.5rem;
+        width: 3.6rem;
         justify-content: space-between;
-        margin: 8px 7px;
+        margin: 10px 7px;
     }
 }
