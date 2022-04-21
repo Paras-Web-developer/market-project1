@@ -150,6 +150,11 @@ footer .left p{
         width: 660px;
         height: 382px;
     }
+    footer .last-part {     
+        grid-template-columns: repeat(2,1fr);
+        grid-column-gap: 2rem;
+        padding: 15px 6%;       
+    }
 }
 
 
@@ -160,3 +165,4 @@ footer .left p{
 
 
 /* Responsive For Phone*/
+
