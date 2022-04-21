@@ -469,8 +469,8 @@ footer .last-part {
     grid-column-gap: 2rem;
     padding: 10px 14%;
     margin-top: 30px;
-    background-color: #fcd3c487;
-    border-top: 1px solid rgb(59, 59, 59;
+    background-color: #ebe4e287;
+    border-top: 1px solid rgb(59, 59, 59);
     
 }
 /* footer .last-part .social-logo{
@@ -487,7 +487,7 @@ footer .left{
     
 }
 footer .left h3{
-    color: white;
+    color: rgb(0, 0, 0);
     line-height: 2rem;
     font-size: 2rem;
 }
