@@ -568,7 +568,7 @@ footer .left p{
  
 /* Responsive For Phones */
 
-@media (min-width:0px) and (max-width: 450px){
+@media (min-width:0px) and (max-width: 768px){
 
         .site-main-raper .hamberger img {
             margin-top: 7px;
