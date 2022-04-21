@@ -130,3 +130,33 @@ footer .left p{
 .last-part .right a{
     color: rgb(255 255 255);
 }
+
+
+
+/* Responsive For Tablet*/
+@media (min-width:0px) and (max-width: 768px){
+
+    .container-form {
+        display: flex;
+        flex-wrap: wrap-reverse;       
+        justify-content: space-evenly;
+    }
+    form {       
+        max-width: 671px;
+        border-radius: 10px;
+        margin-top: 53px;
+    }
+    .container-form .Thankyou img {
+        width: 660px;
+        height: 382px;
+    }
+}
+
+
+
+
+
+
+
+
+/* Responsive For Phone*/
