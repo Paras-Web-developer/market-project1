@@ -43,5 +43,10 @@ footer .left p{
     margin-top: 66px;
 }
 .Thankyou img{
+    width: 514px;
+    height: 450px;
     margin-left: 32px;
+}
+.contact-form{
+    height: 463px;
 }
