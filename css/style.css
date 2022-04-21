@@ -535,7 +535,7 @@ footer .left p{
 
 }
 
-/* Responsive */
+/* Responsive For Tablet*/
 
 @media (min-width:0px) and (max-width: 768px){
     header .content {
@@ -557,16 +557,61 @@ footer .left p{
     .case-studies .card-width img{
         margin: 8px 6px;
     }
-    footer .last-part {
-        
+    footer .last-part {     
         grid-template-columns: repeat(2,1fr);
         grid-column-gap: 2rem;
-
-        padding: 15px 6%;
-        
-        
-        
+        padding: 15px 6%;       
     }
 
 }
  
+/* Responsive For Phones */
+
+@media (min-width:0px) and (max-width: 768px){
+
+        .site-main-raper .hamberger img {
+            margin-top: 7px;
+        }
+    header {
+        height: 53px;
+    }
+    header .content {
+        margin-top: -71px;       
+    }
+    header .branding h3 {
+        font-size: 1.5rem;
+    }
+    header .content .left-content h1 {
+        font-size: 20px;
+        line-height: 2rem;
+        margin-top: 1rem;
+    }
+    header .content .left-content h4{
+        font-size: 0.9rem;
+    }
+    header .content .brand-btn{
+        font-size: 0.9rem;
+    }
+    .case-studies .card{
+        flex-wrap: nowrap;
+    }
+    .case-studies .card-width img{
+        margin: 8px 6px;
+    }
+    footer .last-part {     
+        grid-template-columns: repeat(2,1fr);
+        grid-column-gap: 2rem;
+        padding: 15px 6%;       
+    }
+    .btn {
+        font-size: 0.6rem;
+    }
+    section .brands-logo img {
+        width: 8rem;
+        padding: 17px 0%;
+        margin: 0px 28px;
+    }
+   
+
+
+}
