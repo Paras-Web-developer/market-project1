@@ -314,6 +314,7 @@ section .brands-logo img{
     margin: 8px 0;
     height: 200px;
     border-radius: 5%;
+    box-shadow: 0px 0px 14px 0px #7e6b72;
 
 }
 .fix {
@@ -600,9 +601,6 @@ footer .left p{
     }
     section .why-heading h2{
         margin-top: 42px;
-    }
-    .btn {
-        font-size: 0.6rem;
     }
     section .brands-logo img {
         width: 6rem;
