@@ -50,3 +50,12 @@
     transition: 0.2s ease-in-out;
 
 }
+
+/* phone responsive */
+
+@media (min-width:0px) and (max-width: 768px){
+
+    .btn {
+        font-size: 0.6rem;
+    }
+}
