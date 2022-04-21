@@ -147,7 +147,7 @@ text-decoration: none;
 }
 header{
     background-color: var(--puredark);
-    height: 50px;
+    height: 65px;
     /* border: 2px solid yellow; */
 }
 header nav{
