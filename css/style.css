@@ -304,7 +304,7 @@ section .brands-logo img{
     flex-wrap: wrap;    
     margin-top: 48px;
     height: 58%;
-    justify-content: space-evenly;
+    justify-content: space-between;
     justify-items: center;
     overflow: hidden;
    
@@ -376,6 +376,7 @@ section .section-heading span{
     text-align: center;
     padding: 1rem 2rem;
     border-radius: 23px;
+    box-shadow: 0px 0px 63px 0px #c7bebe;
 
     
 }
