@@ -172,4 +172,13 @@ footer .left p{
         width: 347px;
         height: 293px;
     }
+
+    footer .left p {
+        font-size: 1rem;
+        margin-bottom: 12px;
+    }
+    .left .social-logo img {
+        margin: 0px 8px 9px 0px;
+        width: 28px;
+    }
 }
