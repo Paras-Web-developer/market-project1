@@ -591,7 +591,7 @@ footer .left p{
         font-size: 0.9rem;
     }
     .case-studies .card{
-        flex-wrap: nowrap;
+        
     }
     .case-studies .card-width img{
         margin: 8px 6px;
@@ -609,13 +609,26 @@ footer .left p{
         font-size: 0.6rem;
     }
     section .brands-logo img {
-        width: 8rem;
-        padding: 17px 0%;
+        width: 6rem;
+        padding: 36px 0%;
         margin: 0px 28px;
     }
     section .contain {
         padding: 28px 15px;
     }
-
+    section .creators .creators-img img {
+        width: 120px;
+    }
+    section .creators .creators-text h2 {
+        font-size: 1.4rem;
+    }
+    section .creators-text p {
+        font-size: 1rem;
+    }
+    footer .last-part {
+        grid-template-columns: repeat(1,1fr);
+        grid-row-gap: 0.3rem;
+        padding: 22px 5%;
+    }
 
 }
