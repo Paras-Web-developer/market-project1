@@ -38,3 +38,13 @@ footer .left p{
 .last-part .right a{
     color: rgb(59, 59, 59);
 }
+
+
+/* phone responsive */
+
+@media (min-width:0px) and (max-width: 768px){
+
+    .btn {
+        font-size: 0.6rem;
+    }
+}

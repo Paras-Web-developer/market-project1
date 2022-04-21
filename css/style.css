@@ -551,9 +551,7 @@ footer .left p{
     header .content .brand-btn{
         font-size: 0.9rem;
     }
-    .case-studies .card{
-        /* flex-wrap: nowrap; */
-    }
+    
     .case-studies .card-width img{
         margin: 8px 6px;
     }
