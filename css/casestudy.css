@@ -1,12 +1,14 @@
 body{
     background-image: none;
 }
-body img{
+
+.Social-img{
     width: 150px;
     height: 150px;
     border-radius: 9%;
     box-shadow: 0px 0px 18px 3px #e7dcdc;
 }
+
 body img:hover{
     opacity: 0.6;
 }
@@ -21,9 +23,4 @@ body h1{
 }
 .Case-studies{
     padding: 2% 12%;
-}
-.left .social-logo img{
-    margin: 0 8px;
-    
-    height: 34px;
 }
