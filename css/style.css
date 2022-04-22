@@ -143,6 +143,10 @@ header nav{
     padding: 0 10%;
     margin: 0 auto;
 }
+header .branding a{
+    text-decoration: none;
+}
+
 header .branding h3{
     color: white;
     font-size: 2rem;
