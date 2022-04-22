@@ -159,5 +159,10 @@ footer .left p{
     .Need-btn .btn2 {
         width: 129%;     
     }
+    footer .last-part {     
+        grid-template-columns: repeat(2,1fr);
+        grid-column-gap: 2rem;
+        padding: 15px 6%;       
+    }
 
 }
