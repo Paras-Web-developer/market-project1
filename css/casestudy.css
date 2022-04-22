@@ -1,0 +1,29 @@
+body{
+    background-image: none;
+}
+body img{
+    width: 150px;
+    height: 150px;
+    border-radius: 9%;
+    box-shadow: 0px 0px 18px 3px #e7dcdc;
+}
+body img:hover{
+    opacity: 0.6;
+}
+body h1{
+    text-align: center;
+    box-shadow: 0px 0px 10px 0px rgb(212, 212, 212);
+    border-radius: 12px;
+    padding: 2% 0;
+    margin-bottom: 1rem;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: 100;
+}
+.Case-studies{
+    padding: 2% 12%;
+}
+.left .social-logo img{
+    margin: 0 8px;
+    
+    height: 34px;
+}
