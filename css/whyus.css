@@ -197,10 +197,32 @@ section .why-us-page{
     color: rgb(65, 63, 63);
     font-size: 1rem;
     display: flex;
-    
+    text-align: center;
     
 }
 .keypoint .point1 img{
     width: 73px;
+    margin: 0 13px;
 }
 
+
+/* Responsive For Tablet*/
+@media (min-width:0px) and (max-width: 768px){
+
+    .Top-heading {
+        padding: 3% 4%;
+    }
+    .heading h1 {
+        font-size: 2rem;
+    }
+    .keypoint{
+        padding: 0 8%;
+    }
+    .point1{
+        box-shadow: 0px 0px 63px 0px #c7bebe;
+        border-radius: 25px;
+        padding: 22px;
+
+    }
+
+}
