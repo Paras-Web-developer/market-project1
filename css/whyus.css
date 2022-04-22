@@ -184,8 +184,8 @@ section .why-us-page{
     padding: 0 16%;
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(250px,2fr));
-    grid-column-gap: 3rem;
-    grid-row-gap: 4rem;
+    grid-column-gap: 2rem;
+    grid-row-gap: 3rem;
     
 
 }
