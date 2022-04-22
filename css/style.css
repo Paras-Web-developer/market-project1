@@ -326,13 +326,7 @@ section .brands-logo img{
     width: 92%;
     margin: auto;
 }
-.see-case{
-    text-align: center;  
-    overflow: hidden;
-    margin-top: 25px;
-    
 
-}
 .btn-case-study{
     color: #023047;
     background-color: var(--primary);
