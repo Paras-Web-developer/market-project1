@@ -135,6 +135,10 @@ footer .left p{
         font-weight: 200;
         font-size: 1.8rem;
     }
+    .Needs-boxes{
+        flex-direction: column;
+
+    }
     .Needs-boxes .Need-img img {
         height: 396px;
         width: 312px;
