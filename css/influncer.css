@@ -16,6 +16,9 @@ header nav .right-list a{
 .Thankyou{
     margin-top: 0;
 }
+.Thankyou h1{
+    margin-left: 8rem;
+}
 .Thankyou-img{
     position: relative;
 }
