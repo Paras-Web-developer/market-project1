@@ -103,8 +103,23 @@ form button{
     font-weight: 800;
     margin-bottom: 20px;
 }
-.Thankyou img{
-    border-radius: 5px;
+.Thankyou-img{
+    position: relative;
+}
+.img2{
+    position: relative;
+    top: 5rem;
+    left: -2rem;
+}
+.img3{
+    position: relative;
+    top: 10rem;
+    left: -19rem;
+}
+.Thankyou .Thankyou-img img{
+
+    height: 200px;
+    width: 150px;
     
 }
 
