@@ -13,7 +13,9 @@ header .branding h3 {
 header nav .right-list a{
     color: black;
 }
-
+.Thankyou{
+    margin-top: 0;
+}
 
 /* footer css start  */
 
