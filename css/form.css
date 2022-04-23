@@ -105,8 +105,18 @@ form button{
     color: #555;
     font-weight: 800;
     margin-bottom: 20px;
+    margin-left: 8rem;
+}
+.Thankyou-img{
+    position: relative;
 }
 
+.Thankyou .Thankyou-img img{
+
+    height: 519px;
+    width: 557px;
+    
+}
 
 
 /* start footer css */
