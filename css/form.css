@@ -107,7 +107,7 @@ form button{
     color: #555;
     font-weight: 800;
     margin-bottom: 20px;
-    margin-left: 8rem;
+    
 }
 .Thankyou-img{
     position: relative;
@@ -193,9 +193,7 @@ footer .left p{
         margin: 0px 8px 9px 0px;
         width: 28px;
     }
-    .Thankyou h1 {
-        margin-left: 0;
-    }
+    
     .Thankyou .Thankyou-img img{
         height: 600px;
     }
