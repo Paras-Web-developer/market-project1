@@ -196,4 +196,7 @@ footer .left p{
     .Thankyou h1 {
         margin-left: 0;
     }
+    .Thankyou .Thankyou-img img{
+        height: 650px;
+    }
 }
