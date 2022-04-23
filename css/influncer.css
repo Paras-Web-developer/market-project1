@@ -62,15 +62,10 @@ footer .left p{
     color: rgb(59, 59, 59);
 }
 
-.Thankyou{
-    
+.Thankyou{ 
     margin-left: 32px;
 }
-.container-form .Thankyou img{
-    width: 400px;
-    height: 400px;
-    
-}
+
 .contact-form{
     height: 463px;
 }
