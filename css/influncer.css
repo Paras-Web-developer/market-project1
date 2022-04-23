@@ -26,8 +26,8 @@ header nav .right-list a{
 }
 .img3{
     position: relative;
-    top: 0rem;
-    left: 0rem;
+    top: 10rem;
+    left: -28rem;
 }
 .Thankyou .Thankyou-img img{
 
@@ -62,7 +62,10 @@ footer .left p{
     color: rgb(59, 59, 59);
 }
 
-
+.Thankyou {
+    margin-left: 32px;
+    margin-top: -123px;
+}
 
 .contact-form{
     height: 463px;
