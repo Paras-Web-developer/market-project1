@@ -25,7 +25,10 @@ header .branding h3{
     line-height: 1rem;
     
 }
-.Inox-content h3{
+h2{
+    color: #48bbe7;
+}
+h3{
     font-size: 1rem;
     color: #48bbe7;
     font-size: 1.5rem;
