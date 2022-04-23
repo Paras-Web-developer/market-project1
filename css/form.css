@@ -151,7 +151,7 @@ footer .left p{
     .container-form {
         display: flex;
         flex-wrap: wrap-reverse;       
-        justify-content: space-evenly;
+        justify-content: space-around;
     }
     form {       
         max-width: 671px;
@@ -192,5 +192,8 @@ footer .left p{
     .left .social-logo img {
         margin: 0px 8px 9px 0px;
         width: 28px;
+    }
+    .Thankyou h1 {
+        margin-left: 6rem;
     }
 }
