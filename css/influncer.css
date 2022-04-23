@@ -16,6 +16,25 @@ header nav .right-list a{
 .Thankyou{
     margin-top: 0;
 }
+.Thankyou-img{
+    position: relative;
+}
+.img2{
+    position: relative;
+    top: 5rem;
+    left: -3rem;
+}
+.img3{
+    position: relative;
+    top: 0rem;
+    left: 0rem;
+}
+.Thankyou .Thankyou-img img{
+
+    height: 239px;
+    width: 171px;
+    
+}
 
 /* footer css start  */
 
