@@ -13,8 +13,9 @@ header .branding h3 {
 header nav .right-list a{
     color: black;
 }
-.Thankyou{
-    margin-top: 0;
+.Thankyou {
+    
+    margin-top: 40px;
 }
 .Thankyou h1{
     margin-left: 8rem;
@@ -56,10 +57,7 @@ footer .left p{
     color: rgb(59, 59, 59);
 }
 
-.Thankyou {
-    margin-left: 32px;
-    margin-top: 40px;
-}
+
 
 .contact-form{
     height: 463px;
