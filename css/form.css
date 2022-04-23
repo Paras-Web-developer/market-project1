@@ -106,25 +106,7 @@ form button{
     font-weight: 800;
     margin-bottom: 20px;
 }
-.Thankyou-img{
-    position: relative;
-}
-.img2{
-    position: relative;
-    top: 5rem;
-    left: -3rem;
-}
-.img3{
-    position: relative;
-    top: 10rem;
-    left: -28rem;
-}
-.Thankyou .Thankyou-img img{
 
-    height: 239px;
-    width: 171px;
-    
-}
 
 
 /* start footer css */
