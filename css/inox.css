@@ -1,0 +1,44 @@
+body{
+    background-image: none;
+}
+header{
+    background-color: white;
+    border-bottom: 1px solid black;
+}
+header .branding h3{
+    color: black;
+}
+.container .right-list a{
+    color: black;
+}
+
+.Inox{
+    padding: 2% 10%;
+    
+}
+.Inox-content{
+    text-align: center;
+}
+.Inox-content img{
+    width: 100px;
+    height: 100px;
+    
+    line-height: 1rem;
+    
+}
+h3{
+    font-size: 0.8rem;
+    color: #48bbe7;
+}
+h4{
+    margin-top: 8px;
+    font-weight: 100;
+}
+p{
+    color: #5e5a5a;
+    line-height: 1.5rem;
+}
+.one-k{
+    padding: 0 7%;
+    margin-top: 19px;
+}
