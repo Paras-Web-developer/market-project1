@@ -1,0 +1,135 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="/css/style.css">
+    <link rel="stylesheet" href="/css/utilities.css">
+    <link rel="stylesheet" href="/css/inox.css">
+    <title>ramax media</title>
+</head>
+<body>
+     <!--  Start hamburger -->
+     <div class="site-main-raper">
+        <button class="hamberger">
+            <img src="/img/menu.png" alt="">
+        </button>
+
+        <div class="mobile-nav">
+            <button class="times">
+                <img src="/img/cross.png" alt="">
+            </button>
+            <ul>
+                <li><a href="/index.html" id="ham-home">Home</a></li>
+                <li><a href="/Brands.html">Brands</a></li>
+                <li><a href="/influncer.html">Influencers</a></li>
+                <li><a href="/whyus.html">Why Us?</a></li>
+
+
+
+            </ul>
+        </div>
+
+
+        <!-- End hamburger -->
+
+
+        <header>
+            <div class="container">
+                <nav class="flex items-center justify-between">
+                    <div class="branding">
+                        <a href="/index.html"><h3>ramax<span> media</span></h3></a>
+
+                    </div>
+
+                    <div class="right-list " id="main-nav">
+                        <a href="/index.html" id="home">Home</a>
+                        <a href="/Brands.html">Brands</a>
+                        <a href="/influncer.html">Influencers</a>
+                        <a href="/whyus.html" target="_blank">Why Us?</a>
+
+                    </div>
+                </nav>
+            </div>
+        </header>
+
+
+        <section class="Inox">
+
+            <div class="Inox-content">
+                <img src="/img/INOX_2.png" alt="">
+                <h3>INOX</h3>
+                <h4>THAT'S WHAT I LIKE</h4>
+                <p>To succour growth for Inox’s TikTok handle.</p>
+                <h4>STRATEGY USED</h4>
+                <p>Various Influencer Activities including healthy competition amongst a renowned Influencer’s followers driving INOX’s account into light.</p>
+                <h2>INSIGHTS</h2>
+            </div>
+
+            <div class="one-k">
+                <h3>150k</h3>
+                <h4>Views</h4>
+                <img src="/img/ininox.jpeg" alt="">
+                <img src="/img/ininox2.jpeg" alt="">
+            </div>
+        </section>
+
+
+        <footer class="End">
+            <div class="last-part">
+                <div class="left">
+                    <h3>ramax<span> media</span></h3>
+                    <p>Canada's top influencer marketing platform for campaigns on Instagram, YouTube, TikTok and more.
+                    </p>
+                    <div class="social-logo">
+                        <a href=""><img src="/icons/facebook.png" alt="facebook"></a>
+                        <a href=""><img src="/icons/instagram.png" alt="Instagram"></a>
+                        <a href=""><img src="/icons/twitter.png" alt="twitter"></a>
+                    </div>
+
+                </div>
+
+                <div class="middle flex">
+                    <h4>Company</h4>
+                    <a href="">Home</a>
+                    <a href="">About us</a>
+                    <a href="/form.html">Contact US</a>
+
+                </div>
+
+                <div class="right flex ">
+                    <h4>Platform</h4>
+                    <a href="/form.html">Sign up as brand</a>
+                    <a href="/form.html">join as an influencer</a>
+                    <a href="/whyus.html" >Why us?</a>
+
+                </div>
+            </div>
+
+        </footer>
+     </div>
+     <!--     Start hamberger javascript -->
+    <script>
+
+        //    Start hamberger javascript
+            let hamberger = document.querySelector('.hamberger');
+            let times = document.querySelector('.times');
+            let mobileNav = document.querySelector('.mobile-nav');
+    
+    
+            hamberger.addEventListener('click', function () {
+                mobileNav.classList.add('open');
+    
+    
+            });
+    
+    
+            times.addEventListener('click', function () {
+                mobileNav.classList.remove('open');
+            });
+    
+    
+        </script>
+</body>
+</html>
