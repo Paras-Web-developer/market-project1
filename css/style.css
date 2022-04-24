@@ -308,7 +308,7 @@ section .brands-logo img{
     flex-wrap: wrap;    
     margin-top: 48px;
     height: 58%;
-    justify-content: space-around;
+    justify-content: space-evenly;
     justify-items: center;
     overflow: hidden;
    
