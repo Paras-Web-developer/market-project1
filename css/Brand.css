@@ -50,7 +50,6 @@ header{
 .Needs-boxes{
     display: flex;
     flex-wrap: wrap;
-    justify-content: flex-start;
     border-radius: 7px;
 
 }
@@ -161,6 +160,9 @@ footer .left p{
         grid-template-columns: repeat(1,1fr);
         grid-column-gap: 2rem;
         padding: 15px 6%;       
+    }
+    .Need-btns{
+        font-size: 1.4rem;
     }
 
 }
