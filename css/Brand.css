@@ -50,8 +50,7 @@ header{
 .Needs-boxes{
     display: flex;
     flex-wrap: wrap;
-    justify-content: center;
-    justify-items: flex-start;
+    justify-content: flex-start;
     border-radius: 7px;
 
 }
