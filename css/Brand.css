@@ -49,10 +49,9 @@ header{
 
 .Needs-boxes{
     display: flex;
-    flex-direction: row;
     flex-wrap: wrap;
     justify-content: center;
-    justify-items: center;
+    justify-items: flex-start;
     border-radius: 7px;
 
 }
