@@ -178,7 +178,7 @@ footer .left p{
 
 /* Responsive For Phone*/
 
-@media (min-width:0px) and (max-width: 500px){
+@media (min-width:0px) and (max-width: 716px){
 
     .container-form .Thankyou img {
         width: 394px;
