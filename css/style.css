@@ -417,9 +417,12 @@ section.why-us .creators{
     margin-top: 30px;
     
 }
-.why-us .creators .whyus-space{
+.why-us .creators .whyus-space1{
 margin-bottom: 12px;
 }
+.why-us .creators .whyus-space2{
+    margin-bottom: 12px;
+    }
 section .creators .creators-img img{
 
     width: 150px;
@@ -517,7 +520,7 @@ footer .left p{
 .last-part .right{   
     flex-direction: column;
     grid-row-gap: 0.2rem;
-    width: 13rem;
+    width: 22rem;
     border-bottom: 1px solid #023047;
     margin-top: 20px;
     font-size: 2rem;
@@ -567,10 +570,10 @@ footer .left p{
  
 /* Responsive For Phones */
 
-@media (min-width:0px) and (max-width: 700px){
+@media (min-width:0px) and (max-width: 390px){
 
         .site-main-raper .hamberger img {
-            margin-top: 7px;
+            margin-top: 2px;
         }
     header {
         height: 53px;
@@ -579,15 +582,16 @@ footer .left p{
         margin-top: -71px;       
     }
     header .branding h3 {
-        font-size: 1.5rem;
+        font-size: 1rem;
     }
     header .content .left-content h1 {
-        font-size: 20px;
+        font-size: 16px;
         line-height: 2rem;
         margin-top: 1rem;
     }
     header .content .left-content h4{
-        font-size: 0.9rem;
+        font-size: 0.7rem;
+        margin-bottom: 0px;
     }
     header .content .brand-btn{
         font-size: 0.9rem;
@@ -607,6 +611,9 @@ footer .left p{
         padding: 36px 0%;
         margin: 0px 28px;
     }
+    section .section-heading {
+        font-size: 1.8rem;
+    }
     section .contain {
         padding: 28px 15px;
     }
@@ -619,6 +626,13 @@ footer .left p{
     section .creators-text p {
         font-size: 1rem;
     }
+    .why-us .creators .whyus-space1{
+        flex-direction: column;
+    }
+    .why-us .creators .whyus-space2{
+        flex-direction: column-reverse;
+    }
+    
     footer .last-part {     
         grid-template-columns: repeat(2,1fr);
         grid-column-gap: 2rem;
@@ -628,6 +642,9 @@ footer .left p{
         grid-template-columns: repeat(1,1fr);
         grid-row-gap: 0.3rem;
         padding: 22px 5%;
+    }
+    footer .left p {
+        font-size: 1rem;
     }
 
 }
