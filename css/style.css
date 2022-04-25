@@ -572,7 +572,9 @@ footer .left p{
 
 @media (min-width:0px) and (max-width: 600px){
 
-        
+    .site-main-raper .hamberger img{
+        margin-top: 0;
+    }
     header {
         height: 40px;
     }
