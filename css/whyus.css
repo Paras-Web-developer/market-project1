@@ -232,3 +232,11 @@ section .why-us-page{
     }
 
 }
+/* Responsive For Phones */
+
+@media (min-width:0px) and (max-width: 600px){
+
+   
+    header {
+        height: 40px;
+    }}
