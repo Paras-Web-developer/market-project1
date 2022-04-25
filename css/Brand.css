@@ -50,9 +50,9 @@ header{
 .Needs-boxes{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
     flex-wrap: wrap;
-    
+    justify-content: center;
+    justify-items: center;
     border-radius: 7px;
 
 }
@@ -145,7 +145,7 @@ footer .left p{
         font-size: 1.8rem;
     }
     .Needs {
-        padding: 4% 17%;
+        padding: 4% 10%;
     }
     .Needs-boxes{
         flex-direction: column;
@@ -160,9 +160,15 @@ footer .left p{
         width: 129%;     
     }
     footer .last-part {     
-        grid-template-columns: repeat(2,1fr);
+        grid-template-columns: repeat(1,1fr);
         grid-column-gap: 2rem;
         padding: 15px 6%;       
     }
+
+}
+
+/* Responsive For Phone*/
+@media (min-width:0px) and (max-width: 768px){
+
 
 }
