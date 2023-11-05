@@ -1,4 +1,4 @@
-header{
+/* header {
     background-color: rgb(255 255 255);
     border-bottom: 1px solid #6e6868;
 }
@@ -8,40 +8,49 @@ header{
 
 header .branding h3 {
     color: black;
-    
+
 }
-header nav .right-list a{
+
+header nav .right-list a {
     color: black;
-}
+} */
 
 /* footer css start  */
 
-footer .last-part{
+/* footer .last-part {
     background-color: #ffffff;
-    
+
 }
 
-footer .left h3{
+footer .left h3 {
     color: black;
 }
-footer .left p{
+
+footer .left p {
     color: rgb(59, 59, 59);
 }
-.last-part .middle h4{
+
+.last-part .middle h4 {
     color: #000000;
 }
-.last-part .middle a{
+
+.last-part .middle a {
     color: rgb(59, 59, 59);
 }
-.last-part .right h4{
+
+.last-part .right h4 {
     color: #000000;
 }
-.last-part .right a{
+
+.last-part .right a {
     color: rgb(59, 59, 59);
 }
 
+*/
 
 
-.contact-form{
+/* .contact-form {
     height: 463px;
 }
+
+*/
